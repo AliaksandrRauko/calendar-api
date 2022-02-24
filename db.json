@@ -1,0 +1,24 @@
+{
+    "ChineseZodiac": {
+        "Zodiac": [
+            {
+                "id": "1",
+                "firstName": "Rat",
+                "lastName": "Крыса",
+                "photo": "https://ibb.co/pnNH9s3"
+            },
+            {
+                "id": "2",
+                "firstName": "Ox",
+                "lastName": "Бык",
+                "photo": "https://ibb.co/vVsSnnQ"
+            },
+            {
+                "id": "3",
+                "firstName": "Tiger",
+                "lastName": "Тигр",
+                "photo": "https://ibb.co/MSV2qQ4"
+            }
+        ]
+    }
+}
